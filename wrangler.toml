@@ -1,0 +1,8 @@
+name = "jafcloudworker"
+type = "javascript"
+
+account_id = "6bec7ffc2a20aacdb929297fb329032b"
+workers_dev = true
+route = "/geos"
+zone_id = "bf318937f68a5e58e04deaa666ddd2b6"
+compatibility_date = "2022-11-27"
